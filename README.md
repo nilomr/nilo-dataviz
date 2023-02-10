@@ -1,4 +1,7 @@
 #### A small and pretty random selction of my data visualisation and photography work
+
+***
+
 ![](src/img/12-02.jpeg)
 ![](src/img/02.gif)
 ![](src/img/martin.gif)
