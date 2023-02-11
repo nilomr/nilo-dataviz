@@ -6,8 +6,7 @@
 ##### Data visualisation / infographics
 
 ![](src/img/12-02.jpeg)
-![](src/img/15-02.jpeg)
-![](src/img/00-02.jpg)
+![](src/img/15-02.jpeg)![](src/img/00-02.jpg)
 ![](src/img/17-02.jpeg)
 ![](src/img/13-02.jpeg)
 ![](src/img/11-01.jpeg)
